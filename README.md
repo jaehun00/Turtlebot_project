@@ -13,10 +13,6 @@ turtlebot을 사용한 autonomous driving robot performing simple missions
 ### 표지판 종류
 Parking, Stop, Left, Right
 
-
-## 프로젝트 기간
-2020.06.03 ~ 2020.11.15
-
 ## 개발 환경
 
     ubuntu 16.04
@@ -24,4 +20,3 @@ Parking, Stop, Left, Right
     opencv 3.3.1-dev
     turtlebot3 
 
-![103195723-2ac3ec00-4926-11eb-95e8-4bbd5de123df](https://github.com/jaehun00/Turtlebot_project/assets/66196078/71b27480-add3-490d-994b-a4017f04936f)
